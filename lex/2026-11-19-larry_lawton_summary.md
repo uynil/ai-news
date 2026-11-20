@@ -576,8 +576,8 @@ Lex 的结构设计是聪明的：先用一个真实劫匪逐帧验收一款以�
 ### 8.3 文字稿质量缺陷（引用前须校对）
 
 1. **样板文字污染**：开头含 `Contents` / `Table of Contents` 导航列表，结尾含 `This entry was posted in...` 与 `About Lex Fridman` 区块，均非对话内容。
-2. **说话人标签漂移**：多处把 Lawton 的话标为 `Lex Fridman`，最典型的是 **05:06** 那段海军 story——文字稿标为 Lex 说「I was on a Coast Guard Cutter Jarvis, and I heard Fidel Castro open the missile silo doors」，但从自指（「I marched for Ronald Reagan in his inaugural parade」）、专长（海岸警卫队经历）与上下文承接看，**说话人应为 Lawton**。本报告已按语义归因，未采信标签。
-3. **ASR 专名错误**：FBI 探员在同一段内被写作 `Matt Mullen`、`Matt Moen`、`Matt Mullen` 三种形式（维基百科作 Matt Mullen）；`Nietos` 实为 **Ñetas**；`Alberto Gonzales`（司法部长）拼写正确但需注意与大法官之区别。
+2. **播放预告片时的说话人标签失效**：文字稿在 28:14–28:37（稿）这一段把**预告片内的游戏对白**当成了两位主播的对话，交替标注为 `Larry Lawton` / `Lex Fridman`——例如「Larry Lawton: Would you say you're a kind person?」/「Lex Fridman: People say I look aggressive.」/「Larry Lawton: And your favorite hobby?」/「Lex Fridman: Driving.」实际这是 AI 生成影片中角色「Larry Lawton」与旁白的台词，二人当时在观看并评论。同类问题在 29:21–29:54 亦出现。**凡涉及该段，归属一律不可采信标签。**本报告未从该段引用任何一句作为嘉宾原话。
+3. **ASR 专名错误**：FBI 探员在同一段内被写作 `Matt Mullen`、`Matt Moen`、`Matt Mullen` 三种形式（维基百科作 Matt Mullen）；`Nietos` 实为 **Ñetas**；`Alberto Gonzales`（司法部长）拼写正确但需注意与大法官之区别。另有一类更隐蔽的错误——**人名被替换成对话者姓名**：稿 00:56:56 处 Lawton 转述同船战友对他说的话，被记作「they'd ask, 'Hey, Lex, can you send a couple guys to do the painting and shit?'」，但语境中「能派几个人来刷漆」的权限属于时任甲板负责人 Lawton 本人，此处「Lex」应为船上同僚的名字。引用自述类内容时须按语境回填主语。
 4. **Lex 长问句被压缩为碎片**：如 01:11 前后的提问常出现掉词（「… it, it's…」），本报告未引用此类降质片段。
 5. **章节标签与内容错位**：文字稿内的章节标题插入位置与 OUTLINE 不完全对应（例如「Surviving solitary confinement」标在稿 59:40，但该处实际内容为战争话题与棋局；真正的禁闭叙述在稿 1:02:58 之后）。本报告第四节按**内容**组织，不按标签。
 
